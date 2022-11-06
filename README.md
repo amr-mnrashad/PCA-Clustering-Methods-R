@@ -1,2 +1,4 @@
 # PCA-Clustering-Methods-R
-Unsupervised learning methods applied in R
+In this folder there are the following files:
+  1) A pdf document explaining the project and the different clustering methods that have been applied after performing PCA
+  2) R code in a jupyter Notebook file
